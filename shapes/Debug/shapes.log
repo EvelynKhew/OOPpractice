@@ -1,0 +1,4 @@
+﻿  shapes.cpp
+C:\Users\Evelyn\OneDrive\Documents\OOPpractice\shapes\shapes.cpp(23,43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Evelyn\OneDrive\Documents\OOPpractice\shapes\shapes.cpp(28,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  shapes.vcxproj -> C:\Users\Evelyn\OneDrive\Documents\OOPpractice\shapes\Debug\shapes.exe
